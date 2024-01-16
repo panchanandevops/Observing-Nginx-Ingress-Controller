@@ -247,4 +247,4 @@ In this example, we calculate the 99th percentile, filtering specific labels for
 
 ## Acknowledgment 
 
-Special thanks to **Henrik Rexed** for her valuable guidance and teachings. You can find her on [Is it Observable](https://www.youtube.com/c/IsitObservable).
+Special thanks to **Henrik Rexed** for her valuable guidance and teachings. You can find him on [Is it Observable](https://www.youtube.com/c/IsitObservable).
